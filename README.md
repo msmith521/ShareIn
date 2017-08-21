@@ -4,6 +4,8 @@
 
 ## Required Files
 
+Test
+
 ##Private folder on root directory containing 
 
 ##apiKeys.js with variables named: 

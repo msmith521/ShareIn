@@ -6,8 +6,10 @@
 
 ShareIn is a social application and marketplace allowing neighbors to easily share and borrow items from one another. Users can list items that are available for borrowing, search for items in their neighborhoods, and contact the owners of those items via SMS messaging.
 
-<img src="public/assets/profile.png" width=48%/>
-<img src="public/assets/results.png" width=48%/>
+<div style="display: inline-block;">
+  <img src="public/assets/profile.png" width=48%/>
+  <img src="public/assets/results.png" width=48%/>
+</div>
 
 # Required Files
 

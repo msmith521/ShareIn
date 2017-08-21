@@ -6,14 +6,14 @@
 
 ShareIn is a social application and marketplace allowing neighbors to easily share and borrow items from one another. Users can list items that are available for borrowing, search for items in their neighborhoods, and contact the owners of those items via SMS messaging.
 
-<img src="public/assets/profile.png" width=49%/>
-<img src="public/assets/results.png" width=49%/>
+<img src="public/assets/profile.png" width=48%/>
+<img src="public/assets/results.png" width=48%/>
 
 # Required Files
 
-###Private folder on root directory containing: 
+### Private folder on root directory containing: 
 
-####apiKeys.js with variables named: 
+#### apiKeys.js with variables named: 
 - `sid` (from twilio),
 - `authorizationCode` (twilio),
 - `twilioNumber`,

@@ -1,0 +1,55 @@
+exports.items = [
+  {
+    title: 'Crock Pot',
+    itemDescription: 'cooks stew',
+    image: 'http://www.crock-pot.com/dw/image/v2/AAMB_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8c9b92f6/images/highres/SCCPVI600-S-1.jpg?sw=500&sh=500&sm=fit',
+    owner_id: 1,
+  },
+  {
+    title: 'Rice Cooker',
+    image: 'https://target.scene7.com/is/image/Target/50972594_Alt02?wid=520&hei=520&fmt=pjpeg',
+    itemDescription: 'cooks rice',
+    borrower_id: 1,
+    owner_id: 2,
+  },
+  {
+    title: 'Schlong',
+    image: 'http://www.pngmart.com/files/1/Eggplant-PNG-Photos.png',
+    itemDescription: 'not sure...',
+    owner_id: 1,
+  }];
+
+exports.users = [
+  {
+    firstName: 'Bill',
+    lastName: 'Cosby',
+    fullName: 'Bill Cosby',
+    fbId: '12345',
+    image: 'http://i2.cdn.cnn.com/cnnnext/dam/assets/151230191337-bill-cosby-arraignment-large-169.jpg',
+    bio: 'I\'m ya boy boo-boo',
+    email: 'cosby@gmail.com',
+    street: '912 Elm Street',
+    city: 'New York',
+    state: 'NY',
+    zip: 11020,
+    location: [40.7506, 73.9935],
+    rating: 4.2,
+    ratingCount: 5,
+  },
+  {
+    firstName: 'Barack',
+    lastName: 'Obama',
+    fullName: 'Barack Obama',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg',
+    bio: 'Ham bone, Ham bone Where you live?',
+    fbId: '67891',
+    email: 'bigo@gmail.com',
+    street: '123 Maple Street',
+    city: 'New York',
+    state: 'NY',
+    zip: 11021,
+    location: [40.7527, -73.9772],
+    rating: 4.5,
+    ratingCount: 10,
+  },
+];
